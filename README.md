@@ -1,4 +1,5 @@
 # test
 Hello,
 how r u?
-this is my repository
+This is my repository.
+This is my first commit
